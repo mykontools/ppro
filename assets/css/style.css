@@ -114,7 +114,7 @@ p{
     border: 1px solid rgba(248, 224, 188, 0.199);
     font-weight: 100;
     color: rgba(235, 216, 187, 0.87);
-    height: 350px;
+    min-height: 350px;
     background-color: #161616;
 }
 #service .batas:hover{
