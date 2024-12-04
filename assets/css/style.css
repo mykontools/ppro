@@ -29,6 +29,9 @@ html body{
 p{
     text-align: justify;
 }
+.container-fluid{
+    width: 100%;
+}
 /*
 .navbar{
     --bs-navbar-padding-x:0;
