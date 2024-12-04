@@ -493,4 +493,7 @@ footer a.btn-outline-koneng:hover{
     border-radius: 50px;
     border: 1px solid rgb(248, 224, 188);
 }
+footer h5{
+    font-size: 13px;
+}
 /*------ END FOOTER SECTION ---------------*/
